@@ -6,10 +6,14 @@ import datetime
 
 
 # coordinates
-p1 = 138.82706266806662,34.59603674056423 # lower left
-p2 = 138.99058958779398,34.595488882483906 # lower right
-p3 = 138.99122728802018,34.70366797605449 # upper right
-p4 = 138.8274878169426,34.704218037168786 # upper left
+#p1 = 138.82706266806662,34.59603674056423 # lower left
+#p2 = 138.99058958779398,34.595488882483906 # lower right
+#p3 = 138.99122728802018,34.70366797605449 # upper right
+#p4 = 138.8274878169426,34.704218037168786 # upper left
+p1 = 138.82706,34.596036 # lower left
+p2 = 138.99058,34.595488 # lower right
+p3 = 138.99110,34.703400 # upper right
+p4 = 138.82748,34.704018 # upper left
 
 output_file='./01_main_pres-10y_v005_dslip1.04.kml'
 path_fig = './png/01_main_pres-10y_v005_dslip1.04/'
@@ -31,8 +35,8 @@ for n,fig in enumerate(df['fig']):
     ground.timespan.begin = df.loc[n,'time_start']
     ground.timespan.end   = df.loc[n,'time_end']
 
-   #ground.altitudemode = 'relativeToGround'
-    ground.altitudemode = 'absolute'
+    ground.altitudemode = 'relativeToGround'
+   #ground.altitudemode = 'absolute'
    #ground.altitudemode = 'clampToGround'
 
 kml.save(output_file)
