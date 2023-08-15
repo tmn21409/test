@@ -3,7 +3,6 @@
 <head>
     <script src="https://cesium.com/downloads/cesiumjs/releases/1.63.1/Build/Cesium/Cesium.js"></script>
     <link href="https://cesium.com/downloads/cesiumjs/releases/1.63.1/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
-    
     <link href="style.css" rel="stylesheet">
 </head>
 
@@ -54,11 +53,40 @@
       ///////////////////////////////
       //// KML
       ///////////////////////////////
-      // var file_kml = "./kml/01_main_pres-10y_v005_dslip1.04.kml" ;
-         var file_kml = "./kml/01_main_pres-10y_v005_dslip1.04.kmz" ;
-         var kml = viewer.dataSources.add(Cesium.KmlDataSource.load(file_kml));
+      // then : 読込後に()内実行.これがないと読込前に後の作業が始まってしまう.
+      // function : 
+      // Cesium.KmlDataSource.load : kmlを読み込む
+      // viewer.dataSources.add : データソースをビューアに追加
 
-        ////Add 3d buildings
+         var file_kml = "./kml/01_main_pres-10y_v005_dslip1.04.kml" ;
+      //   var kml = viewer.dataSources.add(Cesium.KmlDataSource.load(file_kml));
+
+// var options = {
+//   sourceUri: "./kml/01_main_pres-10y_v005_dslip1.04.kml" // KMLファイルのURLまたはパス
+// };
+// Cesium.KmlDataSource.load(options).then(function(dataSource) {
+//   viewer.dataSources.add(dataSource);
+// });
+
+       var kml = viewer.dataSources.add(Cesium.KmlDataSource.load(file_kml,
+            {
+                 camera: viewer.scene.camera,
+                 canvas: viewer.scene.canvas 
+            })
+       );
+
+
+
+
+
+
+
+
+
+
+      ///////////////////////////////
+      //// Add 3d buildings
+      ///////////////////////////////
         ////https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/3d-tiles/plateau-3dtiles-streaming.md
       //   var your_3d_tiles =viewer.scene.primitives.add(new Cesium.Cesium3DTileset({
       //        url : 'https://assets.cms.plateau.reearth.io/assets/5a/90c73f-cab8-43f1-b4f1-70244fdb4f23/22219_shimoda-shi_2022_3dtiles_op_bldg_lod1/tileset.json'

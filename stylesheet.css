@@ -4,9 +4,16 @@ body {
 
 /* '.' means class */
 .cesium {
+
+ /* 
+  position: static;   
+  position: relative;   
+ */
+
   position: absolute;
   left: 0;
   top: 0;
   right: 0;
   bottom: 0;
+  overflow: hidden; /* コンテンツのはみ出しを非表示にする */
 }
