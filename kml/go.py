@@ -31,9 +31,9 @@ for n,fig in enumerate(df['fig']):
     ground.timespan.begin = df.loc[n,'time_start']
     ground.timespan.end   = df.loc[n,'time_end']
 
-   #ground.altitudemode = 'relativeToGround'
+    ground.altitudemode = 'relativeToGround'
    #ground.altitudemode = 'absolute'
-    ground.altitudemode = 'clampToGround'
+   #ground.altitudemode = 'clampToGround'
 
 kml.save(output_file)
 print(output_file)

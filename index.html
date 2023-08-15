@@ -23,29 +23,29 @@
             })
         });
 
-        viewer.playbackSpeed = 450.0;
+     //   viewer.playbackSpeed = 450.0;
  
-        //////////////////////////////////////////
-        //// 国土地理院タイル
-        //////////////////////////////////////////
-        //var viewer = new Cesium.Viewer('cesiumContainer', {
-        //   imageryProvider: new Cesium.createOpenStreetMapImageryProvider({
+     //   //////////////////////////////////////////
+     //   //// 国土地理院タイル
+     //   //////////////////////////////////////////
+     //   var viewer = new Cesium.Viewer('cesiumContainer', {
+     //      imageryProvider: new Cesium.createOpenStreetMapImageryProvider({
 
-        //   //fileExtension: 'png',
-        //   //url: 'https://cyberjapandata.gsi.go.jp/xyz/std/',
-        //   //credit: new Cesium.Credit('国土地理院タイル:標準地図', '', 'https://maps.gsi.go.jp/development/ichiran.html')
+     //      //fileExtension: 'png',
+     //      //url: 'https://cyberjapandata.gsi.go.jp/xyz/std/',
+     //      //credit: new Cesium.Credit('国土地理院タイル:標準地図', '', 'https://maps.gsi.go.jp/development/ichiran.html')
 
 
-        //     fileExtension: 'jpg',
-        //     url: 'https://cyberjapandata.gsi.go.jp/xyz/ort/',
-        //     url: 'https://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/',
-        //     credit: new Cesium.Credit('国土地理院タイル:全国最新写真（シームレス）', '', 'https://maps.gsi.go.jp/development/ichiran.html')
+     //        fileExtension: 'jpg',
+     //        url: 'https://cyberjapandata.gsi.go.jp/xyz/ort/',
+     //        url: 'https://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/',
+     //        credit: new Cesium.Credit('国土地理院タイル:全国最新写真（シームレス）', '', 'https://maps.gsi.go.jp/development/ichiran.html')
 
-        //   }),
-        //   baseLayerPicker: false,
-        //   geocoder: false,
-        //   homeButton: false
-        // });
+     //      }),
+     //      baseLayerPicker: false,
+     //      geocoder: false,
+     //      homeButton: false
+     //    });
 
 
 
@@ -54,7 +54,8 @@
       ///////////////////////////////
       //// KML
       ///////////////////////////////
-         var file_kml = "./kml/01_main_pres-10y_v005_dslip1.04.kml" ;
+      // var file_kml = "./kml/01_main_pres-10y_v005_dslip1.04.kml" ;
+         var file_kml = "./kml/01_main_pres-10y_v005_dslip1.04.kmz" ;
          var kml = viewer.dataSources.add(Cesium.KmlDataSource.load(file_kml));
 
         ////Add 3d buildings

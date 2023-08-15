@@ -10,7 +10,7 @@
             <Icon id="3">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0000000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -24,7 +24,7 @@
             <Icon id="7">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0000600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -38,7 +38,7 @@
             <Icon id="11">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0001200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -52,7 +52,7 @@
             <Icon id="15">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0001800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -66,7 +66,7 @@
             <Icon id="19">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0002400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -80,7 +80,7 @@
             <Icon id="23">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0003000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -94,7 +94,7 @@
             <Icon id="27">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0003600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -108,7 +108,7 @@
             <Icon id="31">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0004200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -122,7 +122,7 @@
             <Icon id="35">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0004800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -136,7 +136,7 @@
             <Icon id="39">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0005400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -150,7 +150,7 @@
             <Icon id="43">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0006000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -164,7 +164,7 @@
             <Icon id="47">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0006600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -178,7 +178,7 @@
             <Icon id="51">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0007200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -192,7 +192,7 @@
             <Icon id="55">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0007800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -206,7 +206,7 @@
             <Icon id="59">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0008400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -220,7 +220,7 @@
             <Icon id="63">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0009000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -234,7 +234,7 @@
             <Icon id="67">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0009600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -248,7 +248,7 @@
             <Icon id="71">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0010200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -262,7 +262,7 @@
             <Icon id="75">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0010800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -276,7 +276,7 @@
             <Icon id="79">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0011400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -290,7 +290,7 @@
             <Icon id="83">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0012000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -304,7 +304,7 @@
             <Icon id="87">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0012600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -318,7 +318,7 @@
             <Icon id="91">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0013200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -332,7 +332,7 @@
             <Icon id="95">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0013800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -346,7 +346,7 @@
             <Icon id="99">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0014400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -360,7 +360,7 @@
             <Icon id="103">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0015000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -374,7 +374,7 @@
             <Icon id="107">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0015600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -388,7 +388,7 @@
             <Icon id="111">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0016200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -402,7 +402,7 @@
             <Icon id="115">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0016800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -416,7 +416,7 @@
             <Icon id="119">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0017400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -430,7 +430,7 @@
             <Icon id="123">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0018000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -444,7 +444,7 @@
             <Icon id="127">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0018600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -458,7 +458,7 @@
             <Icon id="131">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0019200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -472,7 +472,7 @@
             <Icon id="135">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0019800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -486,7 +486,7 @@
             <Icon id="139">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0020400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -500,7 +500,7 @@
             <Icon id="143">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0021000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -514,7 +514,7 @@
             <Icon id="147">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0021600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -528,7 +528,7 @@
             <Icon id="151">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0022200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -542,7 +542,7 @@
             <Icon id="155">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0022800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -556,7 +556,7 @@
             <Icon id="159">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0023400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -570,7 +570,7 @@
             <Icon id="163">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0024000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -584,7 +584,7 @@
             <Icon id="167">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0024600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -598,7 +598,7 @@
             <Icon id="171">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0025200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -612,7 +612,7 @@
             <Icon id="175">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0025800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -626,7 +626,7 @@
             <Icon id="179">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0026400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -640,7 +640,7 @@
             <Icon id="183">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0027000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -654,7 +654,7 @@
             <Icon id="187">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0027600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -668,7 +668,7 @@
             <Icon id="191">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0028200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -682,7 +682,7 @@
             <Icon id="195">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0028800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -696,7 +696,7 @@
             <Icon id="199">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0029400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -710,7 +710,7 @@
             <Icon id="203">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0030000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -724,7 +724,7 @@
             <Icon id="207">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0030600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -738,7 +738,7 @@
             <Icon id="211">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0031200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -752,7 +752,7 @@
             <Icon id="215">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0031800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -766,7 +766,7 @@
             <Icon id="219">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0032400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -780,7 +780,7 @@
             <Icon id="223">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0033000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -794,7 +794,7 @@
             <Icon id="227">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0033600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -808,7 +808,7 @@
             <Icon id="231">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0034200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -822,7 +822,7 @@
             <Icon id="235">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0034800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -836,7 +836,7 @@
             <Icon id="239">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0035400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -850,7 +850,7 @@
             <Icon id="243">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0036000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -864,7 +864,7 @@
             <Icon id="247">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0036600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -878,7 +878,7 @@
             <Icon id="251">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0037200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -892,7 +892,7 @@
             <Icon id="255">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0037800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -906,7 +906,7 @@
             <Icon id="259">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0038400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -920,7 +920,7 @@
             <Icon id="263">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0039000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -934,7 +934,7 @@
             <Icon id="267">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0039600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -948,7 +948,7 @@
             <Icon id="271">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0040200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -962,7 +962,7 @@
             <Icon id="275">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0040800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -976,7 +976,7 @@
             <Icon id="279">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0041400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -990,7 +990,7 @@
             <Icon id="283">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0042000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1004,7 +1004,7 @@
             <Icon id="287">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0042600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1018,7 +1018,7 @@
             <Icon id="291">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0043200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1032,7 +1032,7 @@
             <Icon id="295">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0043800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1046,7 +1046,7 @@
             <Icon id="299">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0044400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1060,7 +1060,7 @@
             <Icon id="303">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0045000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1074,7 +1074,7 @@
             <Icon id="307">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0045600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1088,7 +1088,7 @@
             <Icon id="311">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0046200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1102,7 +1102,7 @@
             <Icon id="315">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0046800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1116,7 +1116,7 @@
             <Icon id="319">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0047400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1130,7 +1130,7 @@
             <Icon id="323">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0048000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1144,7 +1144,7 @@
             <Icon id="327">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0048600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1158,7 +1158,7 @@
             <Icon id="331">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0049200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1172,7 +1172,7 @@
             <Icon id="335">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0049800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1186,7 +1186,7 @@
             <Icon id="339">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0050400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1200,7 +1200,7 @@
             <Icon id="343">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0051000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1214,7 +1214,7 @@
             <Icon id="347">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0051600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1228,7 +1228,7 @@
             <Icon id="351">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0052200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1242,7 +1242,7 @@
             <Icon id="355">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0052800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1256,7 +1256,7 @@
             <Icon id="359">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0053400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1270,7 +1270,7 @@
             <Icon id="363">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0054000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1284,7 +1284,7 @@
             <Icon id="367">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0054600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1298,7 +1298,7 @@
             <Icon id="371">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0055200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1312,7 +1312,7 @@
             <Icon id="375">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0055800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1326,7 +1326,7 @@
             <Icon id="379">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0056400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1340,7 +1340,7 @@
             <Icon id="383">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0057000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1354,7 +1354,7 @@
             <Icon id="387">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0057600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1368,7 +1368,7 @@
             <Icon id="391">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0058200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1382,7 +1382,7 @@
             <Icon id="395">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0058800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1396,7 +1396,7 @@
             <Icon id="399">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0059400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1410,7 +1410,7 @@
             <Icon id="403">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0060000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1424,7 +1424,7 @@
             <Icon id="407">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0060600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1438,7 +1438,7 @@
             <Icon id="411">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0061200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1452,7 +1452,7 @@
             <Icon id="415">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0061800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1466,7 +1466,7 @@
             <Icon id="419">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0062400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1480,7 +1480,7 @@
             <Icon id="423">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0063000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1494,7 +1494,7 @@
             <Icon id="427">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0063600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1508,7 +1508,7 @@
             <Icon id="431">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0064200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1522,7 +1522,7 @@
             <Icon id="435">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0064800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1536,7 +1536,7 @@
             <Icon id="439">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0065400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1550,7 +1550,7 @@
             <Icon id="443">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0066000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1564,7 +1564,7 @@
             <Icon id="447">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0066600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1578,7 +1578,7 @@
             <Icon id="451">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0067200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1592,7 +1592,7 @@
             <Icon id="455">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0067800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1606,7 +1606,7 @@
             <Icon id="459">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0068400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1620,7 +1620,7 @@
             <Icon id="463">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0069000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1634,7 +1634,7 @@
             <Icon id="467">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0069600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1648,7 +1648,7 @@
             <Icon id="471">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0070200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1662,7 +1662,7 @@
             <Icon id="475">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0070800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1676,7 +1676,7 @@
             <Icon id="479">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0071400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1690,7 +1690,7 @@
             <Icon id="483">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0072000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1704,7 +1704,7 @@
             <Icon id="487">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0072600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1718,7 +1718,7 @@
             <Icon id="491">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0073200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1732,7 +1732,7 @@
             <Icon id="495">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0073800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1746,7 +1746,7 @@
             <Icon id="499">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0074400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1760,7 +1760,7 @@
             <Icon id="503">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0075000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1774,7 +1774,7 @@
             <Icon id="507">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0075600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1788,7 +1788,7 @@
             <Icon id="511">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0076200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1802,7 +1802,7 @@
             <Icon id="515">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0076800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1816,7 +1816,7 @@
             <Icon id="519">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0077400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1830,7 +1830,7 @@
             <Icon id="523">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0078000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1844,7 +1844,7 @@
             <Icon id="527">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0078600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1858,7 +1858,7 @@
             <Icon id="531">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0079200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1872,7 +1872,7 @@
             <Icon id="535">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0079800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1886,7 +1886,7 @@
             <Icon id="539">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0080400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1900,7 +1900,7 @@
             <Icon id="543">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0081000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1914,7 +1914,7 @@
             <Icon id="547">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0081600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1928,7 +1928,7 @@
             <Icon id="551">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0082200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1942,7 +1942,7 @@
             <Icon id="555">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0082800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1956,7 +1956,7 @@
             <Icon id="559">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0083400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1970,7 +1970,7 @@
             <Icon id="563">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0084000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1984,7 +1984,7 @@
             <Icon id="567">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0084600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -1998,7 +1998,7 @@
             <Icon id="571">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0085200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2012,7 +2012,7 @@
             <Icon id="575">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0085800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2026,7 +2026,7 @@
             <Icon id="579">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0086400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2040,7 +2040,7 @@
             <Icon id="583">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0087000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2054,7 +2054,7 @@
             <Icon id="587">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0087600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2068,7 +2068,7 @@
             <Icon id="591">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0088200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2082,7 +2082,7 @@
             <Icon id="595">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0088800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2096,7 +2096,7 @@
             <Icon id="599">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0089400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2110,7 +2110,7 @@
             <Icon id="603">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0090000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2124,7 +2124,7 @@
             <Icon id="607">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0090600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2138,7 +2138,7 @@
             <Icon id="611">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0091200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2152,7 +2152,7 @@
             <Icon id="615">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0091800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2166,7 +2166,7 @@
             <Icon id="619">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0092400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2180,7 +2180,7 @@
             <Icon id="623">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0093000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2194,7 +2194,7 @@
             <Icon id="627">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0093600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2208,7 +2208,7 @@
             <Icon id="631">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0094200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2222,7 +2222,7 @@
             <Icon id="635">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0094800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2236,7 +2236,7 @@
             <Icon id="639">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0095400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2250,7 +2250,7 @@
             <Icon id="643">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0096000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2264,7 +2264,7 @@
             <Icon id="647">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0096600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2278,7 +2278,7 @@
             <Icon id="651">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0097200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2292,7 +2292,7 @@
             <Icon id="655">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0097800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2306,7 +2306,7 @@
             <Icon id="659">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0098400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2320,7 +2320,7 @@
             <Icon id="663">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0099000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2334,7 +2334,7 @@
             <Icon id="667">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0099600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2348,7 +2348,7 @@
             <Icon id="671">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0100200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2362,7 +2362,7 @@
             <Icon id="675">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0100800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2376,7 +2376,7 @@
             <Icon id="679">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0101400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2390,7 +2390,7 @@
             <Icon id="683">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0102000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2404,7 +2404,7 @@
             <Icon id="687">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0102600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2418,7 +2418,7 @@
             <Icon id="691">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0103200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2432,7 +2432,7 @@
             <Icon id="695">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0103800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2446,7 +2446,7 @@
             <Icon id="699">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0104400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2460,7 +2460,7 @@
             <Icon id="703">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0105000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2474,7 +2474,7 @@
             <Icon id="707">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0105600.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2488,7 +2488,7 @@
             <Icon id="711">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0106200.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2502,7 +2502,7 @@
             <Icon id="715">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0106800.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2516,7 +2516,7 @@
             <Icon id="719">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0107400.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
@@ -2530,7 +2530,7 @@
             <Icon id="723">
                 <href>./png/01_main_pres-10y_v005_dslip1.04/LEAPFROG_0108000.png</href>
             </Icon>
-            <altitudeMode>clampToGround</altitudeMode>
+            <altitudeMode>relativeToGround</altitudeMode>
             <gx:LatLonQuad>
                 <coordinates>138.82706266806662,34.59603674056423,0.0 138.99058958779398,34.595488882483906,0.0 138.99122728802018,34.70366797605449,0.0 138.8274878169426,34.704218037168786,0.0</coordinates>
             </gx:LatLonQuad>
