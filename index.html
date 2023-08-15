@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+    <script src="https://cesium.com/downloads/cesiumjs/releases/1.63.1/Build/Cesium/Cesium.js"></script>
+    <link href="https://cesium.com/downloads/cesiumjs/releases/1.63.1/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+    
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="cesiumContainer"></div>
+    <script>
+
+        //////////////////////////////////////////
+        //// 国土交通省PLATEAU-Terrain streaming
+        //////////////////////////////////////////
+        https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/terrain/plateau-terrain-streaming.md
+        Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI5N2UyMjcwOS00MDY1LTQxYjEtYjZjMy00YTU0ZTg5MmViYWQiLCJpZCI6ODAzMDYsImlhdCI6MTY0Mjc0ODI2MX0.dkwAL1CcljUV7NA7fDbhXXnmyZQU_c-G5zRx8PtEcxE';
+        viewer = new Cesium.Viewer('cesiumContainer', {
+            terrainProvider: new Cesium.CesiumTerrainProvider({
+                url: Cesium.IonResource.fromAssetId(770371),
+                credit: new Cesium.Credit('PLATEAU配信サービス（試験運用）', '', 'https://github.com/Project-PLATEAU/plateau-streaming-tutorial')
+            })
+        });
+
+        viewer.playbackSpeed = 450.0;
+ 
+        //////////////////////////////////////////
+        //// 国土地理院タイル
+        //////////////////////////////////////////
+        //var viewer = new Cesium.Viewer('cesiumContainer', {
+        //   imageryProvider: new Cesium.createOpenStreetMapImageryProvider({
+
+        //   //fileExtension: 'png',
+        //   //url: 'https://cyberjapandata.gsi.go.jp/xyz/std/',
+        //   //credit: new Cesium.Credit('国土地理院タイル:標準地図', '', 'https://maps.gsi.go.jp/development/ichiran.html')
+
+
+        //     fileExtension: 'jpg',
+        //     url: 'https://cyberjapandata.gsi.go.jp/xyz/ort/',
+        //     url: 'https://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/',
+        //     credit: new Cesium.Credit('国土地理院タイル:全国最新写真（シームレス）', '', 'https://maps.gsi.go.jp/development/ichiran.html')
+
+        //   }),
+        //   baseLayerPicker: false,
+        //   geocoder: false,
+        //   homeButton: false
+        // });
+
+
+
+
+
+      ///////////////////////////////
+      //// KML
+      ///////////////////////////////
+         var file_kml = "./kml/01_main_pres-10y_v005_dslip1.04.kml" ;
+         var kml = viewer.dataSources.add(Cesium.KmlDataSource.load(file_kml));
+
+        ////Add 3d buildings
+        ////https://github.com/Project-PLATEAU/plateau-streaming-tutorial/blob/main/3d-tiles/plateau-3dtiles-streaming.md
+      //   var your_3d_tiles =viewer.scene.primitives.add(new Cesium.Cesium3DTileset({
+      //        url : 'https://assets.cms.plateau.reearth.io/assets/5a/90c73f-cab8-43f1-b4f1-70244fdb4f23/22219_shimoda-shi_2022_3dtiles_op_bldg_lod1/tileset.json'
+      //    }));
+
+
+      ///////////////////////////////
+      //// czml
+      ///////////////////////////////
+        // Github上のhtml または webセキュリティを解除したローカルブラウザで見える
+      //var file_czml = "./c.czml" ;
+      //viewer.dataSources.add(Cesium.CzmlDataSource.load(file_czml));
+ 
+
+    // カメラの初期位置の指定
+    viewer.camera.setView({
+      destination: Cesium.Cartesian3.fromDegrees(138.955, 34.669959, 10000.0)
+    });
+
+     // viewer.flyTo(your_3d_tiles);
+     // viewer.flyTo(kml);
+    </script>
+</body>
+</html>
